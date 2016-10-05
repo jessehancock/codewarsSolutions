@@ -6,3 +6,4 @@ function isKiss( words ){
   }
   return "Good work Joe!"
 }
+ouch
